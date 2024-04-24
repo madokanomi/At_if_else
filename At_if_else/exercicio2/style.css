@@ -1,0 +1,109 @@
+fieldset{
+    text-align:center;
+    border-radius: 30px;
+    width:25%;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7   )), url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/470c6a73-e607-4ff2-be90-f5c3c25e32c6/dgkh33s-6ad76127-69f1-4bb1-9d64-7df3d39fc231.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ3MGM2YTczLWU2MDctNGZmMi1iZTkwLWY1YzNjMjVlMzJjNlwvZGdraDMzcy02YWQ3NjEyNy02OWYxLTRiYjEtOWQ2NC03ZGYzZDM5ZmMyMzEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Gyag3KHid0P2uBwiIxj5LVCrtrSSEOd0-00g1PUhuSI');
+    background-position:center;
+    background-size:cover;
+    border-width:4px;
+    border-style:solid;
+    border-color:white;
+    box-shadow:1px 1px 9px black;
+}
+
+
+.resultado{
+    text-align:center;
+    border-radius: 30px;
+    width:1000px;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7   )), url('https://i.pinimg.com/originals/92/a2/15/92a21560c52e8033b7c5a808f216802a.jpg');
+    background-size:cover;
+    background-position:center;
+    border-width:4px;
+    border-style:solid;
+    border-color:white;
+    box-shadow:1px 1px 9px black;
+}
+
+body{
+    font-size: px;
+    margin: 0px;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('https://livewallp.com/wp-content/uploads/2021/04/VOCALOID-Hatsune-Miku.jpg');
+    background-size:100%;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+a:hover{
+    opacity:0.7;
+}
+.logo{
+   font-size:85px;
+    color:white;
+    text-align:center;
+    
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    text-align:center;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://cdn.shopify.com/s/files/1/0378/9333/files/tsurt_hatsunemiku_banner_76f1f26b-ef0f-4dc1-a21e-95a418eb89c9_2048x2048.jpg?v=1709151417');
+    background-size:cover;
+    background-position-y:50%;
+    height:13vh;
+    font-size:17px;
+
+        font-family:bebas neue; 
+}
+.nav-list{
+    list-style:none;
+    display:flex;
+}
+.nav-list li{
+    letter-spacing:2px;
+
+}
+
+label{
+
+    font-family:bebas neue;
+    font-size: 50px;
+    color: white;
+
+}
+
+button{
+    border-radius:25px;
+    font-size:35px;
+    padding-right:12px;
+    padding-left:12px;
+    padding-top:3px;
+    padding-bottom:3px;
+    border-width:3px;
+    background-color:transparent;
+    border-color:white;
+    color:white;
+    border-style:solid;
+    font-family:bebas neue;
+}
+
+button:hover{
+    cursor:pointer;
+    color:rgb(177, 177, 177);
+    border-color: rgb(177, 177, 177);
+}
+
+input{
+    border-radius:20px;
+    text-align:center;
+    width:100px;
+    height:35px;
+    font-size:35px;
+    font-weight:bold;
+}
+

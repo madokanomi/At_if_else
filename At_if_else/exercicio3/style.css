@@ -1,0 +1,60 @@
+h1{
+    font-family:bebas neue;
+    font-size:250%;
+    color:white;
+    }
+    p{
+        color:white;
+    }
+    h3{
+        color:white;
+    }
+    h6{
+        color:white;
+    }
+    
+    body{
+        background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://i.pinimg.com/originals/4d/01/6b/4d016b328618841ab19bf4bb2235f462.jpg');
+        background-size:cover;
+    }
+    
+    .mencoes{
+        border-radius:10px;
+       text-align:center;
+    }
+    
+
+    
+    .botao{
+        border-radius:25px;
+        font-size:35px;
+        padding-right:13px;
+        padding-left:13px;
+        padding-top:1px;
+        padding-bottom:1px;
+        border-width:3px;
+        background-color:transparent;
+        border-color:white;
+        color:white;
+        border-style:solid;
+        font-family:bebas neue;
+    }
+
+    
+input{
+    border-radius:20px;
+    text-align:center;
+    width:220px;
+    height:35px;
+    font-size:19px;
+ font-weight:bold;
+}
+
+.nota{
+    border-radius:20px;
+    text-align:center;
+    width:100px;
+    height:35px;
+    font-size:30px;
+    font-weight:bold;
+}
